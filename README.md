@@ -72,4 +72,4 @@ The chatbot is integrated with Dummy Food & Co. website.
 
 
 #### **Link to the website** : https://chatori-chatbot.onrender.com
-#### ~ Developed by Siddharth Angra
+#### ~ Developed by Aditya Dwivedi
