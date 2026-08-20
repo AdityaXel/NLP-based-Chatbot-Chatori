@@ -3,4 +3,4 @@ __pycache__/
 *.sql
 *.exe
 *.old
-*.db1
+*.db
